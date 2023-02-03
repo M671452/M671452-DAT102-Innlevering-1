@@ -1,2 +1,5 @@
 # M671452-DAT102-Innlevering-1
-<img width="405" alt="image" src="https://user-images.githubusercontent.com/112420978/216716489-10ed1e2e-b75f-407b-9721-1dd439110c46.png">
+scrennshot av test på oppgave 4
+![image](https://user-images.githubusercontent.com/112420978/216716571-791bca72-83fc-4631-92ab-cf743766f60f.png)
+
+
